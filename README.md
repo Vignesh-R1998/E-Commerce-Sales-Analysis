@@ -16,7 +16,7 @@ This is a transnational data set which contains all the transactions occurring b
 
 **InvoiceDate:** Invice Date and time. Numeric, the day and time when each transaction was generated.
 
-**UnitPrice:** Unit price. Numeric, Product price per unit in sterling.
+**UnitPrice:** Unit price. Numeric, Product price per unit in sterling
 
 **CustomerID:** Customer number. Nominal, a 5-digit integral number uniquely assigned to each customer.
 
